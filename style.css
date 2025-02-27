@@ -120,15 +120,15 @@ footer p {
 /* Botões de navegação */
 .prev, .next {
   position: absolute;
-  top: 130%;
+  top: 150%;
   transform: translateY(-50%);
   background-color: rgba(0, 0, 0, 0.5);
   color: white;
   border: none;
-  padding: 15px;
+  padding: 10px;
   cursor: pointer;
   font-size: 2rem;
-  border-radius: 50%;
+  border-radius: 20%;
   z-index: 10;
 }
 
